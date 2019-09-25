@@ -4,6 +4,8 @@ Sources de données:
 - Registre Parcellaire Graphique (ASP)
 - Plan Cadastre Informatisé vectoriel (DGFiP)
 
+![](https://raw.githubusercontent.com/cquest/calcul_epandage_bati/master/images/zones_150m.png "En rouge: les surfaces cultivées à moins de 150m d'un bâtiment")
+
 ## Outils utilisés
 
 - Postgresql + postgis
